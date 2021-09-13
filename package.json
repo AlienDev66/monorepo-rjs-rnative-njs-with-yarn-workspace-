@@ -1,0 +1,13 @@
+{
+  "name": "monorepo-rjs-rnative-njs-with-yarn-workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "author": "Domingos Capitango <p.capitango65@gmail.com>",
+  "license": "MIT"
+}
